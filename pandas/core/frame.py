@@ -14,6 +14,8 @@ from collections import abc
 import datetime
 from io import StringIO
 import itertools
+import numpy
+import pandas
 from textwrap import dedent
 from typing import (
     IO,
